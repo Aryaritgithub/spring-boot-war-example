@@ -1,9 +1,11 @@
 # spring-boot-war-example project
 
-
 check is user a root user.
+
 apt-get update
+
 apt-get install maven
+
 mvn test
 mvn package
 apt-get install tomcat9
